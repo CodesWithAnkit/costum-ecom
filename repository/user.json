@@ -1,18 +1,8 @@
 [
   {
     "email": "test@test.com",
-    "password": "asjdflkjalsd",
-    "id": "e7f5fb40"
-  },
-  {
-    "email": "test@test.com",
-    "password": "asjdflkjalsd",
-    "id": "761d3816"
-  },
-  {
-    "email": "test@test.com",
-    "password": "asjdflkjalsd",
-    "id": "3e992abf"
+    "id": "3e992abf",
+    "password": "ItsPassword"
   },
   {
     "email": "test@test.com",
